@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\cmg22\Downloads\coe4dk4_lab_2_2022\coe4dk4_lab_2_2022\main.c(210,60): warning C4020: 'schedule_packet_arrival_event': too many actual parameters
+C:\Users\cmg22\Downloads\coe4dk4_lab_2_2022\coe4dk4_lab_2_2022\main.c(213,60): warning C4020: 'schedule_packet_arrival_event': too many actual parameters
+C:\Users\cmg22\Downloads\coe4dk4_lab_2_2022\coe4dk4_lab_2_2022\main.c(216,60): warning C4020: 'schedule_packet_arrival_event': too many actual parameters
+  4dk4_lab_2.vcxproj -> C:\Users\cmg22\Downloads\coe4dk4_lab_2_2022\coe4dk4_lab_2_2022\x64\Release\4dk4_lab_2.exe

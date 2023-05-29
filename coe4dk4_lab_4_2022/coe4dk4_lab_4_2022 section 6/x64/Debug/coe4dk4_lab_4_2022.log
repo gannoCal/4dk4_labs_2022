@@ -1,0 +1,10 @@
+﻿  channel.c
+  cleanup.c
+  main.c
+  output.c
+  packet_arrival.c
+  packet_duration.c
+  packet_transmission.c
+C:\Users\cmg22\Downloads\coe4dk4_lab_4_2022\coe4dk4_lab_4_2022 section 6\packet_transmission.c(178,1): warning C4142: 'schedule_data_transmission_end_event': benign redefinition of type
+  Generating Code...
+  coe4dk4_lab_4_2022.vcxproj -> C:\Users\cmg22\Downloads\coe4dk4_lab_4_2022\coe4dk4_lab_4_2022 section 6\x64\Debug\coe4dk4_lab_4_2022.exe
